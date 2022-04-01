@@ -1,5 +1,5 @@
 package com.student.data.resources;
-//
+
 import com.student.data.model.Student;
 import com.student.data.repository.StudentRepository;
 import org.springframework.beans.factory.annotation.Autowired;
