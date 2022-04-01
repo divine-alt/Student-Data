@@ -1,5 +1,5 @@
 package com.student.data.model;
-
+//model of student data
 import javax.persistence.Entity;
 import javax.persistence.Id;
 @Entity
